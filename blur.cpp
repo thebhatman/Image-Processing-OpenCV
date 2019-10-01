@@ -38,5 +38,6 @@ int main()
 	if(flag==27) break;
 	}
 	return 0;
-}
+	//you can change the image blurring window size as well
+}	
 
