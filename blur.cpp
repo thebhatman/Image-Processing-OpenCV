@@ -18,7 +18,7 @@ int main()
 	int i,j,k,p,q;
 	int avg;
 	createTrackbar("Blur","Image",&k,15);
-
+	//commented for readability
 	while(1)
 	{		
 	Mat b(a.rows,a.cols,CV_8UC1,Scalar(0));
